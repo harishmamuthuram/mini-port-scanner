@@ -76,6 +76,20 @@ Scan Duration: 1.34 seconds
 
 ---
 
+## Project Structure
+
+```text
+mini-port-scanner/
+
+├── scanner.py
+├── README.md
+├── .gitignore
+├── requirements.txt
+└── results.txt (auto-generated)
+```
+
+---
+
 ## Learning Outcomes
 
 * Python networking fundamentals
