@@ -34,7 +34,7 @@ No external libraries are required.
 ## Usage
 
 ```bash
-python scanner.py
+mini port scanner.py
 ```
 
 ```text
