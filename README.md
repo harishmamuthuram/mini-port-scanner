@@ -81,7 +81,7 @@ Scan Duration: 1.34 seconds
 ```text
 mini-port-scanner/
 
-├── scanner.py
+├── mini port scanner.py
 ├── README.md
 ├── .gitignore
 └── results.txt (auto-generated)
