@@ -84,7 +84,6 @@ mini-port-scanner/
 ├── scanner.py
 ├── README.md
 ├── .gitignore
-├── requirements.txt
 └── results.txt (auto-generated)
 ```
 
